@@ -4,6 +4,7 @@ title: Remote Work Revolution
 date: 2019-01-15
 tags: remote 
 ---
+Test
 Remote work opportunities are on the rise. [US Census Bureau](https://www.census.gov/library/visualizations/2013/comm/home_based_workers.html) documented that more people are working from home.
 
 The largest programming community website Stackoverflow added a remote checkbox to their jobs page recently.  
