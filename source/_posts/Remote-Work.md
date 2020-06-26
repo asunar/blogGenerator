@@ -1,7 +1,7 @@
 ---
 layout: title
 title: Remote Work Revolution
-date: 2018-01-15
+date: 2019-01-15
 tags: remote 
 ---
 Remote work opportunities are on the rise. [US Census Bureau](https://www.census.gov/library/visualizations/2013/comm/home_based_workers.html) documented that more people are working from home.
