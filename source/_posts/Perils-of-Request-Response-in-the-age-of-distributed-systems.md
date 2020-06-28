@@ -4,7 +4,7 @@ date: 2020-06-26 18:40:22
 tags: ADSD 
 ---
 
-This is the first of -hopefully- a series of posts to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
+This is a part of a series of posts to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
 
 I reviewed the videos multiple times and took detailed notes to really internalize the principles. These are the kind of technology agnostic principles that have been around for decades and should be relevant for years to come as opposed to the intricacies of the JavaScript framework du jour.
 
