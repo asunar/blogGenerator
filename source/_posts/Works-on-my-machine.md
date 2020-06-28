@@ -1,7 +1,7 @@
 ---
 title: Works on my machine
 date: 2020-06-28 08:43:44
-tags:
+tags: ADSD
 ---
 This is a part of a series of posts to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
 

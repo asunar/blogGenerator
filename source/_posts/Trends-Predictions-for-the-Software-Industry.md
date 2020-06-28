@@ -39,5 +39,5 @@ Given that most companies will want to do more with less, what will the already 
 
 > In the future, all the code you ever write will be business logic. - Werner Vogels (Chief Technology Officer of Amazon)
 
-<del>Coming soon</del> [Remote Work](../../../2019/01/15/Remote-Work) .
+<del>Coming soon</del> [Remote Work](../../../2019/01/15/Remote-Work).
 
