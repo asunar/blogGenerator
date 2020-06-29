@@ -1,6 +1,6 @@
 ---
 title: Request/Response Performance
-date: 2020-06-28 09:43:22
+date: 2020-06-29 09:43:22
 tags: ADSD
 ---
 This is a part of a series of [posts](../../../../tags/ADSD/) to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
