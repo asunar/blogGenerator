@@ -4,7 +4,7 @@ date: 2020-06-26 18:40:22
 tags: ADSD 
 ---
 
-This is a part of a series of posts to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
+This is a part of a series of [posts](../../../../tags/ADSD/) to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
 
 I reviewed the videos multiple times and took detailed notes to really internalize the principles. These are the kind of technology agnostic principles that have been around for decades and should be relevant for years to come as opposed to the intricacies of the JavaScript framework du jour.
 
@@ -35,10 +35,7 @@ Udi Dahan used timeout exception to demonstrate the reliability issues with this
  * What do we tell the user? I know "An unexpected error occurred" :)
 
  The bottom line is:
- > If you're doing this on top of http, you're always going to be almost there. There's always going to be the scenario of this time I've done it. This time I finally solved all of the edge cases, and then some period of time later and production, some other thing will blow up and you'll discover oh except that one.       
+ > If you're doing this on top of http, you're always going to be almost there. There's always going to be the scenario of this time I've done it. This time I finally solved all of the edge cases, and then some period of time later in production, some other thing will blow up and you'll discover oh except that one.       
  -Udi Dahan
 
-Today I learned: It is very difficult to build reliable systems on top of http with request/response (remote procedure calling-RPC, REST, Web Services etc. )
-
-
-
+Today I learned: It is very difficult to build reliable systems on top of http with request/response (remote procedure calling-RPC, REST, Web Services etc.)
