@@ -23,12 +23,12 @@ Udi Dahan used timeout exception to demonstrate the reliability issues with this
 2. Invoke a synchronous call and wait for response.
 3. Get a timeout exception
  
- Here are some posibble scenarios
+ Here are some possible scenarios
 
  * Data did not arrive at the server 
  * Data arrived, service did not complete processing before timeout.
 
- At this point client does not know what to do; this is important data needs to processed. 
+ At this point client does not know what to do; this is important data that needs to processed. 
  
  * Resend and risk duplicate processing? 
  * Write service code to handle deduplication? What if we don't own the service?
