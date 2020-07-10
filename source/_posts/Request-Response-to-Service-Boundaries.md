@@ -31,7 +31,9 @@ One of the issues with this approach is that we end up putting attributes that d
 
 If a customer's name does not change when they move, name and address donot need to be stored together.
 
-This understanding leads us to one of the most important aspects of the distributed systems design: [Finding your service boundaries](https://particular.net/webinars/finding-your-service-boundaries-a-practical-guide). In a nutshell, the process boils down to
+This understanding leads us to one of the most important aspects of the distributed systems design: [Finding your service boundaries](https://particular.net/webinars/finding-your-service-boundaries-a-practical-guide). 
+
+In a nutshell,
 
 * Design and understand user workflows
 * Determine the pieces of data needed to enable the workflows
@@ -39,7 +41,7 @@ This understanding leads us to one of the most important aspects of the distribu
 * Identify messages/events needed for coordination between the piles
 * Name the piles (like CustomerLoyaltyService, ShippingService etc. )
 
-When teams follow this exercise they realize that the traditional singular "Customer" entity does not exist anymore. First name and last name is in this pile(service to be named later), shipping address is in that pile and loyalty status info is in that pile over there. Effectively, we have exploded the customer entity and distributed its attributes to many piles(prospective services). Ideally, these piles have an ID and customer attributes they are responsible for **and nothing else** so each can totally perform their respective business capability independently. That is what makes them a service.
+When teams follow this exercise they realize that the traditional singular "Customer" entity does not exist anymore. First name and last name is in this pile(service to be named later), shipping address is in that pile and loyalty status info is in that pile over there. Effectively, we have exploded the customer entity and distributed its attributes to many piles(prospective services). Ideally, these piles have an ID, customer attributes they are responsible for **and nothing else** so each can totally perform their respective business capability independently. That is what makes them a service.
 
 > Service is the technical authority for a given business capability. 
 > -Udi Dahan
