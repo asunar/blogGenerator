@@ -31,4 +31,4 @@ I was one of those people who thought that async/await fixes this problem.
 
 Thanks to [ADSD](https://learn.particular.net/courses/adsd-online) course and to [David's Boike's presentation](https://www.youtube.com/watch?v=aE-p0cfwTVU), I now understand how under sufficient load, long running queries can exhaust all the memory on a web server. 
 
-Today I learned: In addition to being [unreliable](../../../2020/06/26/Perils-of-Request-Response-in-the-age-of-distributed-systems/) request/response style interaction does not scale well under load. 
+Today I learned: In addition to being [unreliable](../../../../2020/06/26/Request-Response-Reliability/) request/response style interaction does not scale well under load. 

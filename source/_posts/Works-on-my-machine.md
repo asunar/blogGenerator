@@ -6,7 +6,7 @@ tags: ADSD
 This is a part of a series of [posts](../../../../tags/ADSD/) to document my learnings after watching Udi Dahan's [Advanced Distributed Systems Design](https://learn.particular.net/courses/adsd-online) course.
 
 
-In the previous [post](../../../2020/06/26/Perils-of-Request-Response-in-the-age-of-distributed-systems), we demonstrated the unreliability of request/response.
+In the previous [post](../../../../2020/06/26/Request-Response-Reliability), we demonstrated the unreliability of request/response.
 
 If such a trivial example can show how unreliable request/response *could* be, why do we continue to write similar type of code?
 
