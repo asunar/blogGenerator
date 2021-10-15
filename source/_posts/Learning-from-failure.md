@@ -4,7 +4,7 @@ date: 2021-10-05 09:01:43
 tags: interview
 ---
 
-I have failed a coding challenge some time ago. It looked like a simple enough problem. However, afer struggling  to come up with an answer in the allowed time, I blew up the interview.
+I have failed a coding challenge some time ago. It looked like a simple enough problem. However, afer struggling  to come up with an answer in the allowed time, I blew it.
 
 As a software professional with about two decades of progressive experience I was disappointed. I decided to do a mini retrospective to see what I can learn from this experience; what went wrong and how I can do better next time. I skimmed through the "Cracking the Coding Interview" book in preparation for the interview. However, I still made the most common interviewing mistake. I jumped into coding too soon without formulating a solution in my head first.
 
