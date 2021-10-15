@@ -17,7 +17,7 @@ Started with writing down the rules:
 * Symbols to the right increment, symbols to the left decrement
 * Max 3 consecutive roman numerals are allowed
 * Maximum number representable in roman numerals is 3999
-* 0 has no equivalent
+* 0 has no equivalent symbol
 
 The last three rules were not immediately obvious before writing them down. It's easy to see the early exit conditions. If the number is 0 or greater than 3999, there is nothing to do.
 
