@@ -50,7 +50,7 @@ Here is the pattern I see:
 | 8 |        baaa     |
 | 9 |        ac       |
 
-Let's represent this pattern in javascript:
+Let's code this pattern in javascript:
 ```javascript
 function convertDigit(c, p, gp, digitNumber){
   // c: current numeral
