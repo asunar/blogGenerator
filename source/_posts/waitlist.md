@@ -1,5 +1,5 @@
 ---
-title: Announcing Pantry Hopper
+title: Announcing Pantry Hopper [Deprecated]
 date: 2022-02-19 07:29:34
 tags: [pantryhopper]
 ---
